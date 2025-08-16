@@ -1,4 +1,4 @@
-# ⚡ CredX AI Job Recommendation
+# ⚡ CredX AI Job Recommendation- TASK 2
 
 An AI-powered job recommendation system that suggests jobs based on user preferences and provides AI-generated explanations. Built for **CredX Hackathon 2025**.
 
