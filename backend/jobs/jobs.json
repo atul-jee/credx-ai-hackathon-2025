@@ -1,0 +1,30 @@
+[
+  {
+    "job_id": "RED-456",
+    "title": "Senior UX Designer",
+    "company": "Reddit",
+    "location": "Remote in USA",
+    "salary_range": [146000, 232000],
+    "employment_type": "Full-Time",
+    "company_size": "51-200 Employees",
+    "industry": "AI & Machine Learning",
+    "required_skills": ["Figma", "Prototyping", "UX Research"],
+    "values_promoted": ["Impactful Work", "Transparency & Communication"],
+    "experience_required": "5-8 years",
+    "role_level": "Senior"
+  },
+  {
+    "job_id": "GGL-320",
+    "title": "Design Manager",
+    "company": "Google",
+    "location": "New York City",
+    "salary_range": [180000, 250000],
+    "employment_type": "Full-Time",
+    "company_size": "201-500 Employees",
+    "industry": "Design",
+    "required_skills": ["Figma", "UI/UX Design", "Leadership"],
+    "values_promoted": ["Work-Life Balance", "Mentorship & Career Development"],
+    "experience_required": "8-10 years",
+    "role_level": "Manager"
+  }
+]

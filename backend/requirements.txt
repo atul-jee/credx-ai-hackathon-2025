@@ -1,0 +1,8 @@
+flask
+flask-cors
+json
+sklearn
+numpy
+os
+google-generativeai
+requests
