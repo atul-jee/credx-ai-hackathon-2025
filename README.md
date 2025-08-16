@@ -103,7 +103,7 @@ Frontend runs at 👉 `http://localhost:5173`
 
 ### Matches user preferences against structured job fields like skills, titles, location, industry, company size, values, and salary.Calculates a score between 0 and 1 for each field based on partial or exact matches.Helps provide interpretable recommendations.
 
-##2️⃣ Embedding Similarity (Semantic Match)
+## 2️⃣ Embedding Similarity (Semantic Match)
 
 ### Uses Google Gemini API to convert user preferences and job descriptions into vector embeddings.Computes cosine similarity between embeddings to measure semantic closeness.Captures matches even when keywords differ (e.g., “Frontend Developer” vs “React Engineer”).
 
