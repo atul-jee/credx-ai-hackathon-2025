@@ -98,6 +98,20 @@ Frontend runs at 👉 `http://localhost:5173`
 
 
 ---
+## 📸 Screenshots
+
+### 1️⃣ Homepage
+![Homepage](./screenshots/1.png)
+
+### 2️⃣ Preference Form
+![Preference Form](./screenshots/2.png)
+
+### 3️⃣ Job Recommendations
+![Job Recommendations](./screenshots/3.png)
+
+### 4️⃣ AI Explanation
+![AI Explanation](./screenshots/4.png)
+
 # Algo:
 ## 1️⃣ Fuzzy Logic (Structured Match)
 
