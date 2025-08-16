@@ -15,7 +15,7 @@ with open(JOBS_PATH) as f:
     JOBS = json.load(f)
 
 # Configure Gemini
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))# Put your Gemini API key in the environment variable GEMINI_API_KEY
+genai.configure(api_key='AIzaSyBLLUsEnReZkaJM3QNJh5JwjMxbX-bqI4I')# Put your Gemini API key in the environment variable GEMINI_API_KEY
 
 # ----------- Fuzzy Logic Weights -----------
 WEIGHTS = {
